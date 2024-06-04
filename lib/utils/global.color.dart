@@ -6,4 +6,6 @@ class GlobalCOlors {
  static HexColor textColor = HexColor('#4f4f4f');
  static HexColor buttonColor = HexColor('#098b5c');
  static HexColor whiteColor = HexColor('#ffffff');
+
+ static HexColor greenColor = HexColor('#098b5c');
 }

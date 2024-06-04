@@ -3,7 +3,6 @@ import 'package:get/get_navigation/get_navigation.dart';
 import 'package:login_signup/utils/global.color.dart';
 import 'package:login_signup/view/register.view.dart';
 import 'package:login_signup/view/widgets/button.global.dart';
-import 'package:login_signup/view/widgets/social.login.dart';
 import 'package:login_signup/view/widgets/text.form.global.dart';
 
 class loginView extends StatelessWidget {
@@ -65,7 +64,6 @@ class loginView extends StatelessWidget {
                   const SizedBox(height: 10),
                   const ButtonGlobal(),     
                   const SizedBox(height: 25),
-                  SocialLogin()
                 ],
             ),
           ),
